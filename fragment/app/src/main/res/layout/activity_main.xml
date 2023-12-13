@@ -1,12 +1,3 @@
-# fragment
-| Nama      | Yudi Fermana      |
-| --------- | ----------------- |
-| NIM       | 312010321         |
-| Kelas     | TI.22.A.3         |
-| Tugas     | Fragment          |
-
-# Activity_Main
-```python
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -39,6 +30,3 @@
         app:menu="@menu/bottom_menu" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-```
-# Output
-![gambar](gambar/fragment.png)
